@@ -1,2 +1,2 @@
 # rwm
-rwm is a window manager, inspired by tinywm.
+rwm is a lightweight window manager written in c++ by me.
